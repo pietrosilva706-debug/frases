@@ -1,2 +1,3 @@
 # frases
-frases.txt
+
+new
